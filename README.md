@@ -3,3 +3,5 @@
 Tor Browser Portable is a portablized version of the Tor Browser, which allows for truly anonymous browsing.
 
 <strong>Development Status:</strong> Active Development
+
+<strong>Looking for beta testers!</strong>
