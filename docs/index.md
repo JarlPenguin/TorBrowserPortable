@@ -5,7 +5,7 @@ Welcome to the Tor Browser Portable Homepage! Here you will find resources and d
 - [GitHub](https://github.com/JarlPenguin/TorBrowserPortable)
 - [Discord Server](https://discord.gg/VVuZHqT)
 - [PortableApps Resource Page](https://portableapps.com/node/58825)
-- This app's [help.html](https://github.com/JarlPenguin/TorBrowserPortable/docs/help.html)
+- This app's [help.html](https://github.com/JarlPenguin/TorBrowserPortable/tree/master/docs/help.html)
 
 ## Downloads
 - [Latest Version](https://github.com/JarlPenguin/TorBrowserPortable/releases/tag/2.9.3.999)
