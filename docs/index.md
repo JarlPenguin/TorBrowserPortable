@@ -9,6 +9,6 @@ Welcome to the Tor Browser Portable Homepage! Here you will find resources and d
 - [PortableApps Resource Page](https://portableapps.com/node/58825)
 - This app's [help.html](https://github.com/JarlPenguin/TorBrowserPortable/tree/master/docs/help.html)
 
-# Downloads
+## Downloads
 - [Latest Version](https://github.com/JarlPenguin/TorBrowserPortable/releases/download/7.9.9.92/TorBrowserPortable_8.0_Dev_Test_2_English.paf.exe)
 - [Legacy Versions](https://github.com/JarlPenguin/TorBrowserPortable/releases)
