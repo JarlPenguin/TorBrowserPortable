@@ -10,5 +10,5 @@ Welcome to the Tor Browser Portable Homepage! Here you will find resources and d
 - This app's [help.html](https://github.com/JarlPenguin/TorBrowserPortable/tree/master/docs/help.html)
 
 ## Downloads
-- [Latest Version](https://github.com/JarlPenguin/TorBrowserPortable/releases/download/8.0.3.995/TorBrowserPortable_8.0.4_Dev_Test_5.paf.exe)
+- [Latest Version](https://github.com/JarlPenguin/TorBrowserPortable/releases/download/8.0.4.995/TorBrowserPortable_8.0.5_Dev_Test_5.paf.exe)
 - [Legacy Versions](https://github.com/JarlPenguin/TorBrowserPortable/releases)
